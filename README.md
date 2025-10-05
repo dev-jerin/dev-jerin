@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/dev-jerin?tab=repositories)
 
-- 📫 How to reach me **jerinsigi05@gmail.com**
+- 📫 How to reach me <a href="mailto:jerinsigi05@gmail.com">jerinsigi05@gmail.com</a>
 
-- ⚡ Fun fact **You are reading my READ.me**
+- ⚡ Fun fact **You are reading my README.md**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
