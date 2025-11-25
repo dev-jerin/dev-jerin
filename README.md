@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jerin&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jerin" /> </p>
 
-- 🔭 I’m currently working on **MedSync**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/dev-jerin?tab=repositories)
 
