@@ -1,4 +1,4 @@
-# Jerin Sigi
+# Jerin
 ### Developer
 I build scalable web applications and high-performance backend systems. Specialized in the MERN stack with a focus on clean architecture and database optimization.
 
