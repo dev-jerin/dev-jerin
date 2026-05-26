@@ -1,6 +1,7 @@
 # Jerin
 ### Developer
-I build scalable web applications and high-performance backend systems. Specialized in the MERN stack with a focus on clean architecture and database optimization.
+SDE Intern @ Bluestock Fintech | Full-Stack Developer (MERN) | Agentic AI Enthusiast
+Building automated systems and scalable architectures.
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jerin&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jerin" /> </p>
@@ -28,16 +29,24 @@ I build scalable web applications and high-performance backend systems. Speciali
 ---
 
 ### 🚀 Featured Projects
+
+**NextOffer** | *MERN*
+> AI Powered Interview & Integrity Suite
+* [Source Code](https://github.com/dev-jerin/NextOffer)
+
 **MedSync** | *php,MySQL,Firebase*
 > A HealthCare Platform with Live Token Feature
-* [View Code](https://github.com/dev-jerin/MedSync)
-
+* [Source Code](https://github.com/dev-jerin/MedSync)
 
 **Result Scraper** | *express,axios,cheerio,react* (private repo)
 > Real Time result scrapper that can search for results of particular range of registration numbers of university and view it in a single page
 * [Live Demo](https://resultscraper-eight.vercel.app)
----
 
+**CutOut** | *CSS,JS,HTML*
+> Program to remove background of images using remove.bg API
+* [Source Code](https://github.com/dev-jerin/cutout)
+
+---
 
 ### 📫 Connect
 * **Email:** [jerinsigi01@gmail.com](mailto:jerinsigi01@gmail.com)
